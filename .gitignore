@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.mdb
+
+# Publish files
+publish/
+*.deploy
+*.zip
+
+# Debugging files
+*.tlog
+*.lastbuildstate
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Rider
+.idea/
+
+
